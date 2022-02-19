@@ -23,16 +23,16 @@ Este envío eventualmente se convertirá en su sección de Datos en su informe f
 
 ### 2.  Un informe completo que consta de todos los siguientes componentes (15 puntos):
 
-●      Introducción en la que discute el problema empresarial y quién estaría interesado en este proyecto.
+  ● Introducción en la que discute el problema empresarial y quién estaría interesado en este proyecto.
 
-●      Datos donde describe los datos que se utilizarán para resolver el problema y la fuente de los datos.
+  ● Datos donde describe los datos que se utilizarán para resolver el problema y la fuente de los datos.
 
-●      Sección de metodología que representa el componente principal del informe en el que analiza y describe cualquier análisis de datos exploratorio que realizó, cualquier prueba estadística inferencial que realizó, si corresponde, y qué aprendizaje automático se utilizó y por qué.
+  ● Sección de metodología que representa el componente principal del informe en el que analiza y describe cualquier análisis de datos exploratorio que realizó, cualquier prueba estadística inferencial que realizó, si corresponde, y qué aprendizaje automático se utilizó y por qué.
+  
+  ● Sección de resultados donde discute los resultados.
 
-●      Sección de resultados donde discute los resultados.
+  ● Sección de debate en la que analiza las observaciones que notó y las recomendaciones que pueda hacer en función de los resultados.
 
-●      Sección de debate en la que analiza las observaciones que notó y las recomendaciones que pueda hacer en función de los resultados.
-
-●      Sección de conclusiones donde concluye el informe.
+  ● Sección de conclusiones donde concluye el informe.
 
 ### 3.  Su elección de presentación o publicación de blog. (10 puntos)
