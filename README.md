@@ -9,13 +9,14 @@ Defina claramente un problema o una idea de su elección, donde necesitaría apr
 
 Esta entrega eventualmente se convertirá en su sección Introducción/Problema Comercial en su informe final. Por lo tanto, le recomiendo que envíe el informe (teniendo por ahora sólo su sección Introducción/Problema Comercial) a su repositorio de Github y envíe un enlace al mismo.
 
+https://github.com/i3nriq/Ciencia-de-Datos-Aplicada---Curso-Capstone/blob/master/Semana%204/1.%20Introduccion_%20Problema%20Comercial.pdf
 
 ### 2.  Una descripción de los datos y cómo se utilizarán para resolver el problema. (15 puntos)
 Describe los datos que usará para resolver el problema o ejecutar su idea. Recuerde que necesitará usar los datos de ubicación de Foursquare para resolver el problema o ejecutar su idea. Absolutamente puede usar otros conjuntos de datos en combinación con los datos de ubicación de Foursquare. Por lo tanto, asegúrese de proporcionar una explicación y discusión adecuadas, con ejemplos, de los datos que utilizará, incluso si sólo se trata de datos de ubicación de Foursquare.
 
 Este envío eventualmente se convertirá en su sección de Datos en su informe final. Por lo tanto, le recomiendo que envíe el informe (que tiene su sección de Datos) a su repositorio de Github y envíe un enlace.
 
-
+https://github.com/i3nriq/Ciencia-de-Datos-Aplicada---Curso-Capstone/blob/master/Semana%204/2.%20Datos.pdf
 
 
 ## Semana (2)
